@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mathura Sarankan</h1>
-<h3 align="center">A passionate frontend developer, Backend developer, Full Stack developer and APPs</h3>
+<h3 align="center">A passionate frontend developer, Backend developer, Full Stack developer and APPs</h3><br>
 
+- 🔭 I’m currently participating **on Full Stack developertraining program at Generation**
+
+- 🌱 I’m currently studying **Master in Computer Science at College of Staten Island of the City University of New York**
 - 📫 How to reach me **sara.mathu@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>

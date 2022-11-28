@@ -28,6 +28,12 @@
  <p align="left"><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
  <h4 align="left">Others:</h4>
    <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-<p><img src=https://github-readme-stats.vercel.app/api?username=mathusara&show_icons=true&theme=radical> </p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathusara"></p>
+
+<a href="https://github.com/MathuSara">
+ <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathusara&theme=dark&hide_langs_below=1" />
+<br><br>
+<a href="https://github.com/MathuSara">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mathusara&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+</a>
+
 

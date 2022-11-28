@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mathura-sarankan-b126211b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathura sarankan" height="30" width="40" /></a>
- <a href="https://mathusara.github.io/"><img src="<a href="[https://www.flaticon.com/free-icons/link](https://www.cleanpng.com/png-computer-icons-hyperlink-icon-design-1543998/)" title="link icons" height="30" width="40"></a>
+ <a href="https://mathusara.github.io/"><img src="<a href="[[https://www.flaticon.com/free-icons/link](https://www.cleanpng.com/png-computer-icons-hyperlink-icon-design-1543998/)](https://github.com/MathuSara/MathuSara.github.io/blob/main/assets/img/image4.png)" title="link icons" height="30" width="40"></a>
 </p>
 <h2 align="left">Languages and Tools:</h2>
 <h4 align="left">Programming Languages:</h4>

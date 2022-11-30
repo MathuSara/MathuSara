@@ -11,12 +11,12 @@
 
 - 🌱 I’m currently studying **Master in Computer Science at College of Staten Island of the City University of New York**
 - 📫 How to reach me **sara.mathu@yahoo.com**
--  👨‍💻 Website link at [https://mathusara.github.io/](https://mathusara.github.io/)
-
+-  👨‍💻 Website link at [https://mathusara.github.io/](https://mathusara.github.io/)<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mathura-sarankan-b126211b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathura sarankan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mathura-sarankan-b126211b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathura sarankan" height="30" width="40" /></a></p>
+<p align="left">  <a href="https://mathusara.github.io/"><img src="https://user-images.githubusercontent.com/82628360/204932808-4cf91247-2e68-40ea-9050-cd60cd857f36.jpg"   height="40" width="40" /></a>
 </p>
 <h2 align="left">Languages and Tools:</h2>
 <h4 align="left">Programming Languages:</h4>

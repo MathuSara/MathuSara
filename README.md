@@ -1,7 +1,7 @@
 <h1 align="Left">Hi 👋</h1>
 
 <p align = "center">
-<img src =https://user-images.githubusercontent.com/82628360/204821471-1de64f55-7d43-4de6-b58b-d4dce2eff6ee.gif>
+<img src =https://user-images.githubusercontent.com/82628360/204822067-92874af8-44ff-4973-a99d-81b093dfd2d0.gif>
  </p>
 
 <h1 align="center"> I'm Mathura Sarankan</h1>

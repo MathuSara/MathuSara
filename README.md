@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mathura Sarankan</h1>
+<h1 align="Left">Hi 👋</h1>
+
+![img1](https://user-images.githubusercontent.com/82628360/204816942-dac76e1d-c616-4a76-a26a-629e6335813e.gif )
+
+<h1 align="center"> I'm Mathura Sarankan</h1>
 <h3 align="center">A passionate frontend developer, Backend developer, Full Stack developer and APPs</h3><br>
 
 - 🔭 I’m currently participating **on Full Stack developer training program at Generation**

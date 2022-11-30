@@ -1,6 +1,8 @@
 <h1 align="Left">Hi 👋</h1>
 
-![img1](https://user-images.githubusercontent.com/82628360/204816942-dac76e1d-c616-4a76-a26a-629e6335813e.gif )
+<p align = "center">
+<img src =https://user-images.githubusercontent.com/82628360/204821471-1de64f55-7d43-4de6-b58b-d4dce2eff6ee.gif>
+ </p>
 
 <h1 align="center"> I'm Mathura Sarankan</h1>
 <h3 align="center">A passionate frontend developer, Backend developer, Full Stack developer and APPs</h3><br>

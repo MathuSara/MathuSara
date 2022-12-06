@@ -10,7 +10,7 @@
 - 🔭 I’m currently participating **on Full Stack developer training program at Generation**<br>
 - 🌱 I’m currently studying **Master in Computer Science at College of Staten Island of the City University of New York**<br>
 - 📫 How to reach me **sara.mathu@yahoo.com**<br>
--  👨‍💻 Website link at [https://mathusara.github.io/](https://mathusara.github.io/)<br>
+-  👨‍💻 Website link at https://mathusara.github.io/ <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

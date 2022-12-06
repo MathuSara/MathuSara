@@ -6,7 +6,7 @@
 
 <h1 align="center"> I'm Mathura Sarankan</h1>
 <h3 align="center">A passionate frontend developer, Backend developer, Full Stack developer and APPs</h3><br>
-
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=MathuSara alt=rahuldkjain/> </p>
 - 🔭 I’m currently participating **on Full Stack developer training program at Generation**
 - 🌱 I’m currently studying **Master in Computer Science at College of Staten Island of the City University of New York**
 - 📫 How to reach me **sara.mathu@yahoo.com**

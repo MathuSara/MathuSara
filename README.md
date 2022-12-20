@@ -32,9 +32,12 @@
  <h4 align="left">Others:</h4>
    <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
+
+
 <a href="https://github.com/MathuSara">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MathuSara&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 </a><br><br>
+
 <a href="https://github.com/MathuSara">
   <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=MathuSara&theme=dark&hide_langs_below=1" />
 </a>

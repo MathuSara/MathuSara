@@ -37,7 +37,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MathuSara&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 </a><br><br>
 <a href="https://github.com/MathuSara">
-  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=mathusara&theme=dark&hide_langs_below=1" />
+  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=MathuSara&theme=dark&hide_langs_below=1" />
 </a>
 
 
